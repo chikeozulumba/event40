@@ -1,4 +1,14 @@
-.card{
+@import url('./fonts.css');
+
+* {
+	font-family: 'Circular-Book' !important;
+}
+
+.bg-wicked {
+	background: #6a1b9a !important;
+	color: #ffff !important;
+}
+    .card{
     margin: 0 auto;
     float: none;
     margin-top: 100px;   
