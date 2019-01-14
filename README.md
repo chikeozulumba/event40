@@ -1,2 +1,2 @@
 # event40
-An event manager application
+An event manager application for bootcamp
