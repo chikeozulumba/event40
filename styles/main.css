@@ -1,0 +1,10 @@
+@import url('./fonts.css');
+
+* {
+	font-family: 'Circular-Book' !important;
+}
+
+.bg-wicked {
+	background: #6a1b9a !important;
+	color: #ffff !important;
+}
