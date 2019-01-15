@@ -8,13 +8,22 @@
 	background: #6a1b9a !important;
 	color: #ffff !important;
 }
-    .card{
+
+.card{
+	margin: 0 auto;
+	float: none;
+	margin-top: 100px;
+}
+h2{
+	text-align: center;
+}
+#sign-in-card{
     margin: 0 auto;
     float: none;
     margin-top: 100px;   
     width: 22rem;
     padding: 20px;
 }
-h1{
-    padding-bottom: 20px
+#h2-sign-in{
+    padding-bottom: 20px;
 }
