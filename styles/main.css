@@ -17,3 +17,13 @@
 h2{
 	text-align: center;
 }
+#sign-in-card{
+    margin: 0 auto;
+    float: none;
+    margin-top: 100px;   
+    width: 22rem;
+    padding: 20px;
+}
+#h2-sign-in{
+    padding-bottom: 20px;
+}
